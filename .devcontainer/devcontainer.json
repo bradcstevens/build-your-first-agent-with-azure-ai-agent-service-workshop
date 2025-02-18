@@ -19,7 +19,10 @@
                 "ms-toolsai.jupyter",
                 "ms-python.black-formatter",
                 "mathematic.vscode-pdf"
-            ]
+            ],
+            "settings": {
+                "extensions.confirmedUriPublisherIds": ["*"]
+            }
         }
     }
 }
